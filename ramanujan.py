@@ -9,7 +9,7 @@ Ramanujan problem. If there are n houses in a street numbered consecutively
 sum of the house numbers less than p is equal to the sum of the numbers greater
  than p.(Where n is betwwen 50 and 500 was in the question posed.)
  
- Transferred to GitHub 14 April 2019
+ Transferred to GitHub 14 April 2019: updated 16 April 2066
 """
 
 import numpy as np
@@ -30,7 +30,7 @@ for n in range(1, 10001):
 #
 top = 1
 bot = 2
-levels = 20
+levels = 10
 
 a = np.zeros(levels)
 b = np.zeros(levels)
