@@ -8,6 +8,8 @@ Ramanujan problem. If there are n houses in a street numbered consecutively
 1,2 ...n and one in number p, find possible values of n and p such that the 
 sum of the house numbers less than p is equal to the sum of the numbers greater
  than p.(Where n is betwwen 50 and 500 was in the question posed.)
+ 
+ Transferred to GitHub 14 April 2019
 """
 
 import numpy as np
